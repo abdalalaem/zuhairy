@@ -1,6 +1,6 @@
 {
   "name": "ايــثـــون يوزر بوت",
-  "description": "تنصيب سورس ايــثــون الاصلي معرف قناتنا @EITHON1",
+  "description": "تنصيب سورس امير الاصلي معرف قناتنا @aaaxx1z",
   "logo": "https://telegra.ph/file/2ed67fafed303714aabe4.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
   "repository": "https://github.com/pqnzbmmwQ92/zuhairy",
@@ -8,7 +8,7 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ضع اسمك الذي في تليجرام",
+      "description": " ضع اسمك الذي في تليجرام",
       "value": ""
     },
     "APP_ID": {
@@ -37,7 +37,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لاتـغيره! ",
+      "abdalalem ": "لاتـغيره! ",
       "value": "https://github.com/pqnzbmmwQ92/sbb_b",
       "required": false
     }
